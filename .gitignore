@@ -43,3 +43,5 @@ typings/
 .env
 .next
 
+dist/*
+!dist/.gitkeep
